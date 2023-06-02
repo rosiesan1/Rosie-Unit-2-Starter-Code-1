@@ -1,0 +1,25 @@
+.title {
+    text-align: center;
+    color: white;
+}
+
+div {
+    color: white;
+    text-align: center;
+    background-color: #62868D;
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    background-color: #CFC8B5;
+}
